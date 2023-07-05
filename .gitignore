@@ -69,3 +69,8 @@
 *.ipdb
 *.recipe
 *.vsidx
+*.db
+*.db-shm
+*.db-wal
+*.opendb
+*.lock

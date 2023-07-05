@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\GitHub-Software\Compiler\cmake-3.27.0-rc4-windows-x86_64\bin\CMakeFiles\043fbef90ec9dca723ff461839e0042a\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\GitHub-Software\3rd party Library\OpenXLSX-0.3.2\OpenXLSX\CMakeLists.txt">
+      <Filter>Buildsystem Input Files\OpenXLSX</Filter>
+    </None>
+    <None Include="D:\GitHub-Software\3rd party Library\OpenXLSX-0.3.2\OpenXLSX\OpenXLSXConfig.cmake">
+      <Filter>Buildsystem Input Files\OpenXLSX</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{8753CC95-FE57-3C92-A8DA-CD3B99AFCDD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\OpenXLSX">
+      <UniqueIdentifier>{7063DF8A-F27B-39ED-9A23-9B27CAF5645E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
